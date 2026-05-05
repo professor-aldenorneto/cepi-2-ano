@@ -10,6 +10,7 @@ namespace exercicioRetangulo
     {
         public double Largura;
         public double Altura;
+        public string nome;
 
         public double Area()
         {
